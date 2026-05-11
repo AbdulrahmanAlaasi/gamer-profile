@@ -23,7 +23,7 @@
 
 ## 🎮 About
 
-GamerVault is a full-stack web application developed as a final project for **SWE 322 – Advanced Web Programming** at university. The system allows users to:
+GamerVault is a full-stack web application, The system allows users to:
 
 - Create and manage **gamer profiles** with rank, role, level, XP, and bio
 - Log **gameplay sessions** with kills, deaths, wins, accuracy, and playtime
@@ -190,19 +190,6 @@ Score = Total Kills + (Total Wins × 10) + Average Accuracy
 | 🔵 Advanced | K/D ≥ 1.5 AND Win Rate ≥ 45% |
 | 🟡 Intermediate | K/D ≥ 1.0 |
 | ⚪ Beginner | Below all thresholds |
-
----
-
-## 👥 Team
-
-| # | Name | Student ID |
-|:-:|:-----|:----------:|
-| 1 | Yousef Albatniji | 202211156 |
-| 2 | Abdulrahman Alaasi | 202211177 |
-| 3 | Meshari Almana | 202221002 |
-| 4 | Yaser Braik | 202311081 |
-
-**Course:** SWE 322 – Advanced Web Programming
 
 ---
 
